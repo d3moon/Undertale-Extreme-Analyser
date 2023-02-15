@@ -1,6 +1,6 @@
-# Undertale Extreme Analyser
+<h1 align="center">Undertale Extreme Analyser</h1>
 
-**A tool for analyzing Python code for security vulnerabilities using the Bandit library.**
+<p align="center"><i>A tool for analyzing Python code for security vulnerabilities using the Bandit library.</i></p>
 
 <p align="center">
   <img src="undertale.gif">
@@ -8,7 +8,7 @@
 
 ## Functionalities
 - Scan Python code for common security vulnerabilities
-- View results in JSON, XML or YAML formats
+- View results in JSON formats
 - Scan directories recursively
 - Ignore specified directories and files
 - Suppress certain types of warnings
