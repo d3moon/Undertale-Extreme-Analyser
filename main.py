@@ -35,10 +35,10 @@ if os.path.isfile(file_path) and file_path.endswith(".py"):
         json.dump(log_data, f)
 
     pygame.init()
-    pygame.mixer.music.load("undertale.mp3")
+    pygame.mixer.music.load("assets/undertale.mp3")
     pygame.mixer.music.play()
 
-    gif = Image.open("undertale.gif")
+    gif = Image.open("assets/undertale.gif")
     frames = []
     for frame in ImageSequence.Iterator(gif):
         frames.append(frame.convert("RGBA"))
