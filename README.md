@@ -32,7 +32,7 @@
 ## Installation
 
 1. Clone the repository.
-2. Install the require packages with `pip install requirements.txt` command.
+2. Install the require packages with `pip install -r requirements.txt` command.
 3. Run the program with `python welcome.py` command.
 
 ## Authors
