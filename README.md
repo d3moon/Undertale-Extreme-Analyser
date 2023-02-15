@@ -3,7 +3,7 @@
 <p align="center"><i>A tool for analyzing Python code for security vulnerabilities using the Bandit library.</i></p>
 
 <p align="center">
-  <img src="undertale.gif">
+  <img src="assets/undertale.gif">
 </p>
 
 ## Functionalities
